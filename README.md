@@ -26,7 +26,7 @@
 
 ## Step-by-step Instructions
 
-For detailed instructions, please go to [this page]
+For detailed instructions, please go to [this page](https://github.com/YongchengYAO/CartiMorph-Viewer/blob/main/Documents/instructions.md).
 
 ## Citation
 
