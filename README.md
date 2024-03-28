@@ -26,6 +26,8 @@
 
 ## Step-by-step Instructions
 
+<div style="text-align:center"> <img src="README.assets/fig_report_sample.pdf"  style="zoom:100%;" /> </div>
+
 For detailed instructions, please go to [this page](https://github.com/YongchengYAO/CartiMorph-Viewer/blob/main/Documents/instructions.md).
 
 ## Citation
