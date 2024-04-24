@@ -35,7 +35,7 @@ Check the [post-installation instructions page](https://github.com/YongchengYAO/
 
 ## Example Results from CMT
 
-Try CMV with our example results from the CMT. Just unzip the file and select the top-level folder in CMV.
+Try CMV with our [example results](https://github.com/YongchengYAO/CartiMorph-Viewer/tree/main/Examples-CMV) from the CMT. Just unzip the file and select the top-level folder in CMV.
 
 ## Step-by-step Instructions
 
