@@ -8,15 +8,15 @@ At the end of the installation with a user interface, you are prompted to set up
 - `XAPPLREDIR`: for display 
 - `LD_LIBRARY_PATH`: linked libraries
 
-### Launch CMT from command line and set alias (optional)
+### Launch CMV from command line and set alias (optional)
 
-Launch CartiMorph Viewer with `bash [path/to/run_CartiMorphViewer] [path/to/matlab/runtime]`
+Launch CartiMorph Viewer (CMV) with `bash [path/to/run_CartiMorphViewer] [path/to/matlab/runtime]`
 
 Setting alias for bash shell: adding a line to `.bashrc`
 
 ```bash
 # change [] to actual paths
-alias CMT="bash [path/to/run_CartiMorphViewer.sh] [path/to/matlab/runtime]"
+alias CMV="bash [path/to/run_CartiMorphViewer.sh] [path/to/matlab/runtime]"
 ```
 
 Setting alias for fish shell: 
@@ -25,7 +25,7 @@ Setting alias for fish shell:
 # change to fish shell
 fish
 # change [] to actual paths
-alias --save CMT="bash [path/to/run_CartiMorphViewer.sh] [path/to/matlab/runtime]"
+alias --save CMV="bash [path/to/run_CartiMorphViewer.sh] [path/to/matlab/runtime]"
 ```
 
 
