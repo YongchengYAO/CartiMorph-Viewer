@@ -38,4 +38,4 @@ sudo apt-get install matlab-support
 
 You will be asked to choose whether to rename old libraries provided by Matlab: choose YES.
 
-[<<< Back to the main document](https://github.com/YongchengYAO/CartiMorph-Toolbox)
+[<<< Back to the main document](https://github.com/YongchengYAO/CartiMorph-Viewer)
