@@ -33,6 +33,10 @@ Check the [post-installation instructions page](https://github.com/YongchengYAO/
   - MR image and subregional masks 
   - quantitative results for cartilage morphometrics
 
+## Example Results from CMT
+
+Try CMV with our example results from the CMT. Just unzip the file and select the top-level folder in CMV.
+
 ## Step-by-step Instructions
 
 <div style="text-align:center"> <img src="README.assets/fig_report_sample.png"  style="zoom:100%;" /> </div>
