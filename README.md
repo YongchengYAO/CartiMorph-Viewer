@@ -4,9 +4,7 @@
 
 ## Release
 
-- [v1.0.5](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/tag/v1.0.5):
-  - [CartiMorphViewer-linux-standalone-v1.0.5.install](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/download/v1.0.5/CartiMorphViewer-linux-standalone-v1.0.5.install)
-  - [CartiMorphViewer-macOS-standalone-v1.0.5.install.app.zip](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/download/v1.0.5/CartiMorphViewer-macOS-standalone-v1.0.5.install.app.zip)
+- [v1.0.5](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/tag/v1.0.5) (latest)
 
 ## Introduction
 
