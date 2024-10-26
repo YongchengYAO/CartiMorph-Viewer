@@ -4,9 +4,9 @@
 
 ## Release
 
-- [v1.0.2](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/tag/v1.0.2):
-  - [CartiMorphViewer-linux-standalone-v1.0.2.install](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/download/v1.0.2/CartiMorphViewer-linux-standalone-v1.0.2.install)
-  - [CartiMorphViewer-macOS-standalone-v1.0.2.install.app.zip](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/download/v1.0.2/CartiMorphViewer-macOS-standalone-v1.0.2.install.app.zip)
+- [v1.0.5](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/tag/v1.0.5):
+  - [CartiMorphViewer-linux-standalone-v1.0.5.install](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/download/v1.0.2/CartiMorphViewer-linux-standalone-v1.0.5.install)
+  - [CartiMorphViewer-macOS-standalone-v1.0.5.install.app.zip](https://github.com/YongchengYAO/CartiMorph-Viewer/releases/download/v1.0.2/CartiMorphViewer-macOS-standalone-v1.0.5.install.app.zip)
 
 ## Introduction
 
@@ -19,8 +19,8 @@ We value data privacy when designing CMV. Patient data is strictly excluded from
 ## Installation
 
 ```bash
-chmod u+x CartiMorphViewer-linux-standalone-v1.0.2.install
-./CartiMorphViewer-linux-standalone-v1.0.2.install
+chmod u+x CartiMorphViewer-linux-standalone-v1.0.5.install
+./CartiMorphViewer-linux-standalone-v1.0.5.install
 ```
 
 Check the [post-installation instructions page](https://github.com/YongchengYAO/CartiMorph-Viewer/blob/main/Documents/post_installation_linux.md) for setting environment variables and aliases, and solving library conflicts.
