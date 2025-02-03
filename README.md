@@ -16,12 +16,29 @@ We value data privacy when designing CMV. Patient data is strictly excluded from
 
 ## Installation
 
+### How to install CMV on Linux?
+
 ```bash
 chmod u+x CartiMorphViewer-linux-standalone-v1.0.5.install
 ./CartiMorphViewer-linux-standalone-v1.0.5.install
 ```
 
 Check the [post-installation instructions page](https://github.com/YongchengYAO/CartiMorph-Viewer/blob/main/Documents/post_installation_linux.md) for setting environment variables and aliases, and solving library conflicts.
+
+### How to install CMV on macOS?
+
+1. Download `CartiMorphViewer-macOS-standalone-v1.0.5.install.app.zip`
+2. Unzip the downloaded file by double-clicking or via command 
+
+   ```bash
+   unzip CartiMorphViewer-macOS-standalone-v1.0.5.install.app.zip
+   ```
+3. :fire: Since macOS adds a `com.apple.quarantine` attribute to files downloaded from the internet, marking them as untrusted, we can remove the attribute via 
+
+   ```bash
+   sudo xattr -rd com.apple.quarantine CartiMorphViewer-macOS-standalone-v1.0.5.install.app
+   ```
+4. Now you can double click to install CMV on macOS.
 
 ## Features
 
