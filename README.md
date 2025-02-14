@@ -64,7 +64,7 @@ For detailed instructions, please go to [this page](https://github.com/Yongcheng
 
 ## Citation
 
-If you use the toolkit, please cite the CartiMorph paper.
+If you use the toolkit, please cite the these papers.
 
 ```
 @article{YAO2024103035,
@@ -79,7 +79,19 @@ doi = {https://doi.org/10.1016/j.media.2023.103035}
 }
 ```
 
-
-
-
+```
+@InProceedings{10.1007/978-3-031-82007-6_16,
+author="Yao, Yongcheng
+and Chen, Weitian",
+editor="Wu, Shandong
+and Shabestari, Behrouz
+and Xing, Lei",
+title="Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics",
+booktitle="Applications of Medical Artificial Intelligence",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="162--172"
+}
+```
 
