@@ -64,7 +64,7 @@ For detailed instructions, please go to [this page](https://github.com/Yongcheng
 
 ## Citation
 
-If you use the toolkit, please cite the these papers.
+- Please cite both papers if you use **CartiMorph Toolbox** or **CartiMorph Viewer**
 
 ```
 @article{YAO2024103035,
@@ -78,7 +78,6 @@ issn = {1361-8415},
 doi = {https://doi.org/10.1016/j.media.2023.103035}
 }
 ```
-
 ```
 @InProceedings{10.1007/978-3-031-82007-6_16,
 author="Yao, Yongcheng
@@ -94,4 +93,3 @@ address="Cham",
 pages="162--172"
 }
 ```
-
